@@ -2,7 +2,7 @@
 <div align="center">
 <h3> BCA Student | Aspiring Data Analyst & Web Developer </h3>
   
-![GitHub Snake Animation](https://githubusercontent.com)
+<img src="https://githubusercontent.com" alt="GitHub Snake Animation">
 
   
 <p> Python | Java | React | Node.js | SQL </p>
