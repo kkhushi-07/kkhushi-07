@@ -1,8 +1,8 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=FFD93D&height=250&section=header&text=Hello%20I%27m%20Khushi%21&fontSize=55&fontColor=000&animation=fadeIn)
 <div align="center">
 <h3> BCA Student | Aspiring Data Analyst & Web Developer </h3>
+  
 ![GitHub Snake Animation](https://githubusercontent.com)
-
 
   
 <p> Python | Java | React | Node.js | SQL </p>
